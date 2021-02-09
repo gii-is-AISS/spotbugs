@@ -1,0 +1,2 @@
+setx "SONAR_TOKEN" "ee178ccb9ea496364b186033801ea2863c29c003"
+gradlew sonar
